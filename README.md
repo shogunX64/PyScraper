@@ -26,7 +26,7 @@ The script also stores in a second table from the same db information about prod
 
 
 
-SQL to create the DB tables in Post
-------------------------------------
+SQL to create the DB tables in PostgreSQL
+------------------------------------------
 
 
