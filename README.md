@@ -4,6 +4,7 @@ Scraping Script - Python 3.7.6
 
 Dependencies:
 -------------
+
     1. need to install yagmail -> used for sending emails from a Gmail account
     2. need to install re -> used for splitting with multiple arguments
     3. need to install psycopg2 -> PostgreSQL db connector 
@@ -15,14 +16,17 @@ Dependencies:
 
 About the project:
 -------------------
-The script is designed connect to a DB from where it gets its list of urls which are going
-to be accessed. From the accessed url the script will scrape the product name, product 
-availability and product price. 
+
+The script is designed connect to a DB from where it gets its list of urls which are going to be accessed. From the accessed url the script will scrape the product name, product availability and product price. 
+
 After scraping the product name, availability and price the script will send an email alert
 containing product name, price, availability and url for all products that are available (in stock).
+
 The script also stores in a second table from the same db information about product availabilty and price each time it is run.
 
 
 
 SQL to create the DB tables in Post
 ------------------------------------
+
+
