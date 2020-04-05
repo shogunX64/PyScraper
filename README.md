@@ -5,10 +5,10 @@ Scraping Script - Python 3.7.6
 Dependencies:
 -------------
 
-    1. yagmail -> used for sending emails from a Gmail account
-    2. re -> used for splitting with multiple arguments
+    1. yagmail
+    2. re -> split with multiple arguments
     3. psycopg2
-    4. itertools - > used for converting list of tuples into a list: https://www.geeksforgeeks.org/python-convert-list-of-tuples-into-list/
+    4. itertools - > converting list of tuples into a list: https://www.geeksforgeeks.org/python-convert-list-of-tuples-into-list/
     5. BeautifulSoup
     6. urllib
 
