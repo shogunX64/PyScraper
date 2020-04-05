@@ -37,5 +37,8 @@ SQL to create the DB tables in PostgreSQL
 BI
 --
 https://mode.com/
+
 https://www.holistics.io/
+
 https://vizydrop.com/
+
