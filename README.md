@@ -5,12 +5,12 @@ Scraping Script - Python 3.7.6
 Dependencies:
 -------------
 
-    1. need to install yagmail -> used for sending emails from a Gmail account
-    2. need to install re -> used for splitting with multiple arguments
-    3. need to install psycopg2 -> PostgreSQL db connector 
-    4. need to install itertools - > used for converting list of tuples into a list: https://www.geeksforgeeks.org/python-convert-list-of-tuples-into-list/
-    5. need to install BeautifulSoup -> used for accessing and reading page elements
-    6. need to install urllib
+    1. yagmail -> used for sending emails from a Gmail account
+    2. re -> used for splitting with multiple arguments
+    3. psycopg2
+    4. itertools - > used for converting list of tuples into a list: https://www.geeksforgeeks.org/python-convert-list-of-tuples-into-list/
+    5. BeautifulSoup
+    6. urllib
 
 
 
